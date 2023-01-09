@@ -14,6 +14,7 @@ function solution(s1, s2) {
     return answer - 1;
 }
 
+
 /* 참고할 만한 풀이
 function solution(s1, s2) {
     const answer = s1.filter((x) => s2.includes(x));
