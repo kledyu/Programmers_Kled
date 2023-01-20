@@ -14,7 +14,7 @@ function solution(num_list, n) {
     return answer
 }
 
-/* 참고할 만한 풀이 (while 반복문)
+/* 참고할 만한 다른 풀이 (while 반복문)
 function solution(num_list, n) {
     var answer = [];
 
