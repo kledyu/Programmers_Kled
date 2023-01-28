@@ -24,4 +24,5 @@ function solution(array) {
     return array.join('').split('7').length-1;
 }
 
+첫번째 인덱스에 7이 아닌 값들이 담긴다
 */
