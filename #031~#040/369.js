@@ -1,5 +1,6 @@
 /*
-3, 6, 9게임의 규칙에 맞게 1부터 30까지 출력되는 결과를 배열에 담아 solution 함수 안에서 return 해주세요.
+3, 6, 9게임의 규칙에 맞게 1부터 30까지 출력되는 결과를 배열에 담아 
+solution 함수 안에서 return 해주세요.
 */
 
 function solution(input) {
