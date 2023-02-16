@@ -19,7 +19,7 @@ function solution(numbers) {
     return parseInt(str)
 }
 
-/* 참고해야할 다른 풀이 - 객체의 활용, replace 내 콜백함수의 활용
+/* 참고해야할 다른 풀이 -  객체의 활용, replace 내 콜백함수의 활용
 
 function solution(numbers) {
     const obj = {
