@@ -46,6 +46,6 @@ function solution(board) {
         }
     }
     console.log(board)
-    board.forEach(a => a.forEach(b => b === 0 ? answer++ : null))
+    board.map(v => v.forEach(a => a === 0 ? answer++ : null))
     return answer
 }
