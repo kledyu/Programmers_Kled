@@ -1,1 +1,3 @@
-# Programmers_Kled
+# 프로그래머스 JavaScript 코딩테스트 문제 풀이를 기록합니다
+
+## Lv.0부터 순차적으로 작성합니다.
