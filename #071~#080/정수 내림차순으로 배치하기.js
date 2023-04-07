@@ -8,7 +8,7 @@ const solution = (n) => {
     return [...('' + n)].sort().reverse().join('') * 1;
 }
 
-/* 숫자를 이용해 푸는것이 실행속도가 더 빠르다
+/* 숫자를 이용해 푸는것이 실행속도가 더 빠르다.
 const solution = (n) => {
     let nums =[];
     do{
